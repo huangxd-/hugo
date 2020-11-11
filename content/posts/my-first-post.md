@@ -39,4 +39,3 @@ return msg
 
 ### 第二小段
 
-![enter description here](./images/1605105112171.png)
