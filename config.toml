@@ -12,7 +12,7 @@ googleAnalytics = ""      # UA-XXXXXXXX-X
 ## 评论系统
 changyanAppid = "icyv9mVav6" # Changyan app id             # 畅言
 changyanAppkey = "c80896909bf0e9c1538b7d6679d3e623" # Changyan app key
-disqusShortname = "dongdongbo" # disqus account name
+disqusShortname = "" # disqus account name
 livereUID = "" # LiveRe UID                  # 来必力
 
 [markup.highlight]
@@ -84,7 +84,7 @@ clientId = "" # Your client ID
 clientSecret = "" # Your client secret
 
 [params.utterances] # https://utteranc.es/
-owner = "huangxd" # Your GitHub ID
+owner = "huangxd-" # Your GitHub ID
 repo = "hugo-comment" # The repo to store comments
 
 [params.gitalk] # Gitalk is a comment system based on GitHub issues. see https://github.com/gitalk/gitalk
