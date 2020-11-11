@@ -1,4 +1,4 @@
-baseURL = "https://h.dongdongbo.cn"
+baseURL = "https://blog.dongdongbo.cn"
 languageCode = "en-us"
 title = "东东波の笔记"
 theme = "echo"
@@ -41,7 +41,7 @@ limit = 20
 name = "ddb"
 avatar = "https://s1.ex2x.com/2020/11/10/YEAc.jpg"
 bio = "to be continue..."
-homepage = "https://h.dongdongbo.cn/"
+homepage = "https://blog.dongdongbo.cn/"
 
 [params]
 favicon = "https://avatars0.githubusercontent.com/u/1725326?s=460&v=4"
@@ -73,8 +73,8 @@ link = "https://creativecommons.org/licenses/by-nc/4.0/deed.zh"
 [params.reward]
 enable = true
 title = "打赏"
-wechat = "https://blog-1251237404.cos.ap-guangzhou.myqcloud.com/20190424153510.png" # 微信二维码
-alipay = "https://blog-1251237404.cos.ap-guangzhou.myqcloud.com/20190424153431.png" # 支付宝二维码
+wechat = "https://s1.ex2x.com/2020/11/11/Y5WC.jpg" # 微信二维码
+alipay = "https://s1.ex2x.com/2020/11/11/YzeD.jpg" # 支付宝二维码
 
 ############## 评论系统  start ##############
 [params.gitment] # Gitment is a comment system based on GitHub issues. see https://github.com/imsun/gitment
@@ -109,26 +109,26 @@ visitor = false
 ############ 评论系统  end ##############
 ## 社交链接
 [social]
-github = "forecho"
-jsfiddle = "forecho"
-codepen = "forecho"
-dribbble = "forecho"
-behance = "forecho"
-flickr = "forecho"
-instagram = "forecho"
-youtube = "forecho"
-vimeo = "forecho"
-vine = "forecho"
-medium = "forecho"
-wordpress = "forecho"
-tumblr = "forecho"
-linkedin = "forecho"
-slideshare = "forecho"
-stackoverflow = "forecho"
-reddit = "forecho"
-pinterest = "forecho"
-weibo = "forecho"
-facebook = "forecho"
-twitter = "caizhenghai"
-douban = "ipzone"
+github = "huangxd-"
+#jsfiddle = "forecho"
+#codepen = "forecho"
+#dribbble = "forecho"
+#behance = "forecho"
+#flickr = "forecho"
+#instagram = "forecho"
+#youtube = "forecho"
+#vimeo = "forecho"
+#vine = "forecho"
+#medium = "forecho"
+#wordpress = "forecho"
+#tumblr = "forecho"
+#linkedin = "forecho"
+#slideshare = "forecho"
+#stackoverflow = "forecho"
+#reddit = "forecho"
+#pinterest = "forecho"
+#weibo = "forecho"
+#facebook = "forecho"
+#twitter = "caizhenghai"
+#douban = "ipzone"
 rss = "/atom.xml"
