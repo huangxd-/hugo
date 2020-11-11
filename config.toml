@@ -10,8 +10,8 @@ uglyURLs = true
 googleAnalytics = ""      # UA-XXXXXXXX-X
 
 ## 评论系统
-changyanAppid = "icyv9mVav6" # Changyan app id             # 畅言
-changyanAppkey = "c80896909bf0e9c1538b7d6679d3e623" # Changyan app key
+changyanAppid = "" # Changyan app id             # 畅言
+changyanAppkey = "" # Changyan app key
 disqusShortname = "dongdongbo's blog" # disqus account name
 livereUID = "" # LiveRe UID                  # 来必力
 
