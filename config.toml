@@ -44,14 +44,14 @@ bio = "to be continue..."
 homepage = "https://blog.dongdongbo.cn/"
 
 [params]
-favicon = "https://avatars0.githubusercontent.com/u/1725326?s=460&v=4"
+favicon = "https://s1.ex2x.com/2020/11/10/YEAc.jpg"
 keywords = "Hugo, theme, echo"
 description = "Hugo theme echo example site."
 toc = true
 navItems = [
-  ["HOME", "/"],
-  ["ARCHIVE", "/posts.html"],
-  ["ABOUT", "/about.html"],
+  ["首页", "/"],
+  ["归档", "/posts.html"],
+  ["关于", "/about.html"],
   ["RSS", "/atom.xml"]
 ]
 # rss 全文输出
