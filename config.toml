@@ -12,7 +12,7 @@ googleAnalytics = ""      # UA-XXXXXXXX-X
 ## 评论系统
 changyanAppid = "icyv9mVav6" # Changyan app id             # 畅言
 changyanAppkey = "c80896909bf0e9c1538b7d6679d3e623" # Changyan app key
-disqusShortname = "" # disqus account name
+disqusShortname = "dongdongbo" # disqus account name
 livereUID = "" # LiveRe UID                  # 来必力
 
 [markup.highlight]
