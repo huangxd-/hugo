@@ -9,4 +9,34 @@ categories: ["index"]              # 分类
 author: "ddb"                  # 作者
 ---
 
-# Hugo on Vercel
+# 第一段
+
+``` python
+headers={
+	'Cookie': self.cookie,
+	'ContentType':'text/html;charset=gbk'
+}
+requests.session().get('https://www.52pojie.cn/home.php?mod=task&do=apply&id=2',headers=headers)
+a=requests.session().get('https://www.52pojie.cn/home.php?mod=task&do=draw&id=2',headers=headers)
+b=BeautifulSoup(a.text,'html.parser')          
+c=b.find('div',id='messagetext').find('p').text
+
+msg = ""
+if "您需要先登录才能继续本操作"  in c: 
+	msg = "Cookie失效"
+elif "恭喜"  in c:
+	msg = "吾爱破解签到成功"
+else:
+	msg = "吾爱破解签到失败"
+print(c)
+return msg
+```
+### 第一小段
+
+- [ ] Task item1
+- [ ] Task item2
+- [ ] ssssss3
+
+### 第二小段
+
+![enter description here](./images/1605105112171.png)
