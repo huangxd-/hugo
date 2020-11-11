@@ -39,3 +39,20 @@ return msg
 
 ### 第二小段
 
+![enter description here](http://qiniu.dongdongbo.cn/小书匠/1605107384652.png)
+
+# 第二段
+
+{% codeblock [title] [lang:python] [url] [link text] %}
+requests.session().get('https://www.52pojie.cn/home.php?mod=task&do=apply&id=2',headers=headers)
+a=requests.session().get('https://www.52pojie.cn/home.php?mod=task&do=draw&id=2',headers=headers)
+b=BeautifulSoup(a.text,'html.parser')          
+c=b.find('div',id='messagetext').find('p').text
+{% endcodeblock %}
+
+##### Heading
+
+requests.session().get('https://www.52pojie.cn/home.php?mod=task&do=apply&id=2',headers=headers)
+a=requests.session().get('https://www.52pojie.cn/home.php?mod=task&do=draw&id=2',headers=headers)
+b=BeautifulSoup(a.text,'html.parser')          
+c=b.find('div',id='messagetext').find('p').text
