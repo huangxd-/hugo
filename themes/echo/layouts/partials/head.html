@@ -1,0 +1,63 @@
+<head>
+    <meta charset="utf-8" />
+    {{ hugo.Generator }}
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="generator" content="Saber v0.11.2">
+    <meta name="referrer" content="no-referrer-when-downgrade">
+    {{ if .Site.Author.name }}<meta name="author" content="{{ .Site.Author.name }}" />{{end}}
+    {{ if .Site.Params.keywords }}<meta name="keywords" content="{{ .Site.Params.keywords }}" />{{ end }}
+    <meta name="og:site_name" content="{{ .Site.Title }}" />
+
+    {{- if .IsHome -}}
+
+    <meta property="og:type" content="website" />
+    <meta property="title" content="{{ .Site.Title }}">
+    <meta property="og:title" content="{{ .Site.Title }}">
+    <meta property="twitter:title" content="{{ .Site.Title }}">
+    <meta name="description" content="{{ .Site.Params.description }}">
+    <meta property="og:description" content="{{ .Site.Params.description }}">
+    <meta property="twitter:description" content="{{ .Site.Params.description }}">
+    <meta property="og:type" content="website">
+    <title>{{ .Site.Title }}</title>
+
+    {{- else -}}
+
+    <meta property="og:type" content="article" />
+    <meta property="title" content="{{ .Title }} - {{ .Site.Title }}">
+    <meta property="og:title" content="{{ .Title }} - {{ .Site.Title }}">
+    <meta property="twitter:title" content="{{ .Title }} - {{ .Site.Title }}">
+    <meta name="description" content="{{ default .Summary .Description }}">
+    <meta property="og:description" content="{{ default .Summary .Description }}">
+    <meta property="twitter:description" content="{{ default .Summary .Description }}">
+    <meta property="og:type" content="article">
+    <title>{{ .Title }} - {{ .Site.Title }}</title>
+
+    {{- end }}
+
+    <meta property="og:url" content="{{ .Permalink }}" />
+
+    {{ if .Site.Author.avatar }}
+    <meta property="og:image" content="{{ .Site.Author.avatar }}">
+    <meta property="twitter:image" content="{{ .Site.Author.avatar }}">
+    {{end}}
+
+    {{- if .Site.Params.favicon -}}
+    <link rel="shortcut icon" href="{{ .Site.Params.favicon }}" type="image/x-png" />
+    {{- end -}}
+
+
+    <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="{{ .Site.Params.staticPrefix }}{{ "/css/main.css" | relURL }}" />
+    <link rel="stylesheet" href="//at.alicdn.com/t/font_1607597_jhmihcvh0tm.css" />
+    <link href="{{ .Site.Params.staticPrefix }}{{ "index.xml" | relURL }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}">
+    
+    <!-- busuanzi -->
+    {{- if .Site.Params.busuanzi -}}
+      <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+    {{- end -}}
+
+    {{ .Site.Params.extraHead | safeHTML }}
+</head>

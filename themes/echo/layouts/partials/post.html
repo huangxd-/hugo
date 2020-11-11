@@ -1,0 +1,80 @@
+<!--Section container-->
+<section class="w-full lg:w-3/4 xl:w-3/4">
+
+    <!--Card-->
+    <div class="px-8 py-6 mt-6 lg:mt-0 leading-normal rounded shadow bg-white">
+
+        <!--Title-->
+        {{ partial "posts/title.html" . }}
+
+        <div class="md:hidden">
+            {{ partial "posts/toc.html" . }}
+        </div> 
+
+        <div class="post-content">
+            {{ .Content }}
+
+            <hr class="bg-gray-300 mt-8">
+
+            {{ partial "posts/reward.html" . }}
+
+            {{ partial "posts/copyright.html" . }}
+
+        </div>
+
+        <!--Tags -->
+        {{ with .Params.tags -}}
+            <div class="text-base md:text-sm text-gray-500 pt-6">
+                {{ range . -}}
+                <a class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 hover:bg-gray-300"
+                    href="{{ $.Site.BaseURL }}/tags/{{ . | urlize }}{{ if $.Site.Params.uglyURLs }}.html{{ end }}">
+                    #{{ . }}
+                </a>
+                {{ end }}                    
+            </div>
+        {{ end }}
+
+         <!-- Counter busuanzi -->
+        {{ if .Site.Params.busuanzi }}
+            <p class="text-gray-500 text-sm text-right pt-1">
+                <span id="busuanzi_container_page_pv">
+                    本文有 <span id="busuanzi_value_page_pv"></span> 次阅读
+                </span>
+            </p>
+        {{ end }}
+
+    </div>
+    <!--/Card-->
+
+    <!--divider-->
+    <hr class="bg-gray-300 my-10">
+
+    {{ if in (slice "post" "posts") .Type }}
+        {{ if .Site.Params.postAds }}
+        <div class="post-ads">{{ .Site.Params.postAds | safeHTML }}</div>
+        {{ end }}
+        <!-- split -->
+        {{ if .Site.DisqusShortname }}
+        <div class="">
+            {{ partial "posts/comments.html" . }}
+        </div>
+        {{ end }}
+
+        {{ partial "posts/related.html" . }}
+
+    {{ end }}
+
+</section>
+<!--/Section container-->
+
+<div class="hidden xl:text-sm xl:block xl:w-1/4 xl:px-6 ">
+
+    {{ partial "posts/profile.html" . }}
+
+    <div class="flex flex-col justify-between sticky top-0 pt-12 pb-4 -mt-10 text-gray-600">
+        <div class="bg-white shadow rounded p-4 mt-5">
+            {{ partial "posts/toc.html" . }}
+        </div>
+    </div>
+   
+</div>
