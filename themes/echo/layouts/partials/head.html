@@ -52,6 +52,10 @@
     <link rel="stylesheet" href="{{ .Site.Params.staticPrefix }}{{ "/css/main.css" | relURL }}" />
     <link rel="stylesheet" href="//at.alicdn.com/t/font_1607597_jhmihcvh0tm.css" />
     <link href="{{ .Site.Params.staticPrefix }}{{ "index.xml" | relURL }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}">
+
+    <link rel="stylesheet" href="https://cdn.bootcdn.net/ajax/libs/highlight.js/10.3.2/styles/monokai.min.css">
+    <script src="https://cdn.bootcdn.net/ajax/libs/highlight.js/10.3.2/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
     
     <!-- busuanzi -->
     {{- if .Site.Params.busuanzi -}}
