@@ -56,3 +56,5 @@ requests.session().get('https://www.52pojie.cn/home.php?mod=task&do=apply&id=2',
 a=requests.session().get('https://www.52pojie.cn/home.php?mod=task&do=draw&id=2',headers=headers)
 b=BeautifulSoup(a.text,'html.parser')          
 c=b.find('div',id='messagetext').find('p').text
+
+![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1605190908571.png)
