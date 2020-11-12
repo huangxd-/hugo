@@ -9,27 +9,18 @@ categories: ["index"]              # 分类
 author: "ddb"                  # 作者
 ---
 
-# 第一段
+## 第一段
 
 ``` python
-headers={
-	'Cookie': self.cookie,
-	'ContentType':'text/html;charset=gbk'
-}
-requests.session().get('https://www.52pojie.cn/home.php?mod=task&do=apply&id=2',headers=headers)
-a=requests.session().get('https://www.52pojie.cn/home.php?mod=task&do=draw&id=2',headers=headers)
-b=BeautifulSoup(a.text,'html.parser')          
-c=b.find('div',id='messagetext').find('p').text
+import os
 
-msg = ""
-if "您需要先登录才能继续本操作"  in c: 
-	msg = "Cookie失效"
-elif "恭喜"  in c:
-	msg = "吾爱破解签到成功"
+print('Process (%s) start...' % os.getpid())
+# Only works on Unix/Linux/Mac:
+pid = os.fork()
+if pid == 0:
+    print('I am child process (%s) and my parent is %s.' % (os.getpid(), os.getppid()))
 else:
-	msg = "吾爱破解签到失败"
-print(c)
-return msg
+    print('I (%s) just created a child process (%s).' % (os.getpid(), pid))
 ```
 ### 第一小段
 
@@ -41,20 +32,52 @@ return msg
 
 ![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1605192089622.png)
 
-# 第二段
+## 第二段
 
-{% codeblock [title] [lang:python] [url] [link text] %}
-requests.session().get('https://www.52pojie.cn/home.php?mod=task&do=apply&id=2',headers=headers)
-a=requests.session().get('https://www.52pojie.cn/home.php?mod=task&do=draw&id=2',headers=headers)
-b=BeautifulSoup(a.text,'html.parser')          
-c=b.find('div',id='messagetext').find('p').text
-{% endcodeblock %}
+``` java
+public class OracleJdbcTest {
+ 
+	String driverClass = "oracle.jdbc.driver.OracleDriver";
+	
+	Connection conn;
+	
+	public void init(FileInputStream fs) throws IOException, ClassNotFoundException, SQLException {
+		Properties props = new Properties();
+		props.load(fs);
+		String url = props.getProperty("db.url");
+		String userName = props.getProperty("db.userName");
+		String passWord = props.getProperty("db.passWord");
+		Class.forName(driverClass);
+		conn = DriverManager.getConnection(url, userName, passWord);
+	}
+	
+	public void fetch() throws SQLException {
+		PreparedStatement ps = conn.prepareStatement("select sysdate from dual");
+		ResultSet rs = ps.executeQuery();
+		while(rs.next()) {
+			//do the thing you do
+		}
+		rs.close();
+		ps.close();
+	}
+	
+}
+```
 
 ##### Heading
 
-requests.session().get('https://www.52pojie.cn/home.php?mod=task&do=apply&id=2',headers=headers)
-a=requests.session().get('https://www.52pojie.cn/home.php?mod=task&do=draw&id=2',headers=headers)
-b=BeautifulSoup(a.text,'html.parser')          
-c=b.find('div',id='messagetext').find('p').text
+``` shell
+#!/bin/bash
+ 
+#line=
+ 
+touch $2
+ 
+for line in `baicat $1`
+do
+    echo $line | sed 's/<p>//;s/<\/p>//' >>$2
+ 
+done
+```
 
 ![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1605190908571.png)
