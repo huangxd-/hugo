@@ -82,9 +82,18 @@ vim /etc/rc.d/rc.local
 Shadowrocket
 
 👉[导入节点](shadowrocket://add/sub://aHR0cHM6Ly9sb2xpY28ubWUvc3Vic2NyaWJlL1NoYWRvd3JvY2tldC9zZXJ2ZXIudHh0#%F0%9F%8E%B8%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90)
+
 👉[导入配置](shadowrocket://config/add/https://lolico.me/subscribe/Shadowrocket/rules.conf)
 
-### 效果图
+QuantumultX
+
+👉[导入节点](https://lolico.me/subscribe/QuantumultX/NeteaseMusicServer.txt)
+
+Loon
+
+👉[导入节点](https://api.dler.io/sub?target=loon&url=https%3A%2F%2Flolico.me%2Fsubscribe%2FShadowrocket%2Fserver.txt)
+
+## 效果图
 
 ![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1605281531830.png)
 
