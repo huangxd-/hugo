@@ -11,7 +11,7 @@ author: "ddb"                  # 作者
 
 ## github开源仓库
 
-https://github.com/nondanee/UnblockNeteaseMusic
+[源码库](https://github.com/nondanee/UnblockNeteaseMusic)
 
 ## 特性
 
