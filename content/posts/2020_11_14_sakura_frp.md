@@ -3,7 +3,7 @@ title: 白嫖SakuraFrp进行内网穿透
 date: 2020-11-14T07:25:23+08:00    # 创建时间
 lastmod: 2020-11-14T07:25:23+08:00 # 最后修改时间
 draft: false                       # 是否是草稿？
-tags: ["内网穿透", "frp", "SakuraFrp"]  # 标签
+tags: ["内网穿透", "frp", "SakuraFrp", "白嫖"]  # 标签
 categories: ["技术"]              # 分类
 author: "ddb"                  # 作者
 ---
