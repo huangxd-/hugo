@@ -3,7 +3,7 @@ title: 轻松看各大影视平台VIP视频
 date: 2020-11-14T07:46:23+08:00    # 创建时间
 lastmod: 2020-11-14T07:46:23+08:00 # 最后修改时间
 draft: false                       # 是否是草稿？
-tags: ["影视", "VIP", "白嫖", "IOS"]  # 标签
+tags: ["影视", "VIP", "白嫖", "IOS", "popular"]  # 标签
 categories: ["技术"]              # 分类
 author: "ddb"                  # 作者
 ---

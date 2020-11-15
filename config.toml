@@ -61,8 +61,7 @@ busuanzi = true # 是否使用不蒜子统计站点访问量
 staticCDNPrefix = "https://cdn.bootcss.com/font-awesome/5.11.2"
 extraHead = '<script async src="https://www.googletagmanager.com/gtag/js?id=UA-xxx"></script>'
 postAds = ""
-profileAds = ''
-#profileAds = '<div class="bg-white shadow"><img class=" object-cover w-auto mx-auto mt-6" src="" alt="to be continue..."></div>'
+profileAds = '<div class="bg-white shadow"><a href="https://www.vultr.com/?ref=7444869"><img class="object-cover w-auto mx-auto mt-6" src="https://s1.ex2x.com/2020/11/14/4RWD.png" alt="可以按小时计费的VPS"></a></div>'
 notFoundAds = ''
 
 # 开启版权声明，协议名字和链接都可以换
