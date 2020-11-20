@@ -173,3 +173,7 @@ a:focus {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+.hljs-ln-line {
+  margin-right: 5px;
+}
