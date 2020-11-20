@@ -40,7 +40,7 @@
                 {{ range . -}}
                 <a class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 hover:bg-gray-300"
                     href="{{ $.Site.BaseURL }}/categories/{{ . | urlize }}{{ if $.Site.Params.uglyURLs }}.html{{ end }}">
-                    --{{ . }}
+                    @{{ . }}
                 </a>
                 {{ end }}                    
             </div>
