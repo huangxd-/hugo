@@ -17,10 +17,10 @@
   font-weight: 700;
 }
 
-/* .post-content h2:target,
+.post-content h2:target,
 .post-content h3:target {
-  padding-top: 5rem;
-} */
+  margin-top: 5rem;
+}
 
 /* 二级标题 */
 .post-content h2 {
@@ -49,6 +49,7 @@
 /* 三级标题内容 */
 .post-content h3 {
   margin-top: 5px;
+  margin-bottom: 5px;
   padding-top: 20px;
   padding-right: 5px;
   padding-bottom: 5px;
