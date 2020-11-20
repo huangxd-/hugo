@@ -22,6 +22,30 @@
   padding-top: 5rem;
 }
 
+/* 二级标题 */
+.post-content h2 {
+  height: 40px;
+  background-color: rgb(251, 251, 251);
+  border-bottom: 1px solid rgb(246, 246, 246);
+  overflow: hidden;
+  box-sizing: border-box;
+}
+
+/* 二级标题内容 */
+.post-content h2  {
+  margin-left: -10px;
+  display: inline-block;
+  width: auto;
+  height: 40px;
+  background-color: rgb(33, 33, 34);
+  border-bottom-right-radius:100px;
+  color: rgb(255, 255, 255);
+  padding-right: 30px;
+  padding-left: 30px;
+  line-height: 40px;
+  font-size: 16px;
+}
+
 .post-content ul,
 .post-content ol {
   list-style-type: initial;
