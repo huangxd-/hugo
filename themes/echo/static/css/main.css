@@ -17,10 +17,10 @@
   font-weight: 700;
 }
 
-.post-content h2:target,
+/* .post-content h2:target,
 .post-content h3:target {
-  margin-top: 5rem;
-}
+  padding-top: 5rem;
+} */
 
 /* 二级标题 */
 .post-content h2 {
