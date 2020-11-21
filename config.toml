@@ -61,7 +61,8 @@ busuanzi = true # 是否使用不蒜子统计站点访问量
 staticCDNPrefix = "https://cdn.bootcss.com/font-awesome/5.11.2"
 extraHead = '<script async src="https://www.googletagmanager.com/gtag/js?id=UA-xxx"></script>'
 postAds = ""
-profileAds = '<div class="bg-white shadow"><a href="https://www.vultr.com/?ref=7444869"><img class="object-cover w-auto mx-auto mt-6" src="https://s1.ex2x.com/2020/11/14/4RWD.png" alt="可以按小时计费的VPS"></a></div>'
+# profileAds = '<div class="bg-white shadow"><a href="https://www.vultr.com/?ref=7444869"><img class="object-cover w-auto mx-auto mt-6" src="https://s1.ex2x.com/2020/11/14/4RWD.png" alt="可以按小时计费的VPS"></a></div>'
+profileAds = '<div class="bg-white shadow"><a href="https://curl.qcloud.com/JcUF0dzc"><img class="object-cover w-auto mx-auto mt-6" src="https://s1.ex2x.com/2020/11/21/ALf9.jpg" alt="【腾讯云】热卖云产品3折起，云服务器、云数据库特惠，服务更稳，速度更快，价格更优"></a></div>'
 notFoundAds = ''
 
 # 开启版权声明，协议名字和链接都可以换
