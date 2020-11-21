@@ -128,8 +128,6 @@
 
 {{ partial "posts/popular.html" . }}
 
-{{ partial "tags.html" . }}
-
 {{ if .Site.Params.profileAds }}
     <div class="profile-ads">{{ .Site.Params.profileAds | safeHTML }}</div>
 {{ end }}
