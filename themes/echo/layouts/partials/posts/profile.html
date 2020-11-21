@@ -18,6 +18,18 @@
             <div class="flex-1 text-center">
                 <p class="text-center">
                     <span class="text-gray-700 font-bold">
+                        {{ if isset .Site.Taxonomies "categories" }}
+                            {{ len .Site.Taxonomies.categories }}
+                        {{ else }}
+                            0
+                        {{ end }}
+                    </span>
+                    分类
+                </p>
+            </div> 
+            <div class="flex-1 text-center">
+                <p class="text-center">
+                    <span class="text-gray-700 font-bold">
                         {{ if isset .Site.Taxonomies "tags" }}
                             {{ len .Site.Taxonomies.tags }}
                         {{ else }}
