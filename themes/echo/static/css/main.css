@@ -179,24 +179,28 @@ a:focus {
   margin-right: 15px;
 }
 
-.tags__list {
-  list-style: none;
+.dict {clear:both ;text-align:left;font-size:12px;}
+.dict a {
+  line-height: 24px;
+  display: inline-block;
+  background: #fff;
+  padding: 2px 11px;
+  margin: 3px 3px 3px 0;
+  border-radius: 5px;
+  -moz-transition: all 0.5s;
+  -webkit-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
 }
-
-.tags__item {
-  float: left;
-  margin: 0 6px 6px 0;
-  margin: 0 .375rem .375rem 0;
-  text-transform: uppercase;
-  background: #2a2a2a;
-}
-
-.tags__item:hover {
-  background: #3399ff;
-}
-
-.tags__link,
-.tags__link:hover {
-  display: block;
-  padding: 10px 15px;
-}
+.dict a { color: #FFF;text-decoration:none }
+.dict a:hover { border-radius: 0; text-shadow: #000 1px 1px 1px }
+.dict .pcolor a:nth-child(8n-7) { background: #8A9B0F }
+.dict .pcolor a:nth-child(8n-6) { background: #EB6841 }
+.dict .pcolor a:nth-child(8n-5) { background: #3FB8AF }
+.dict .pcolor a:nth-child(8n-4) { background: #FE4365 }
+.dict .pcolor a:nth-child(8n-3) { background: #FC9D9A }
+.dict .pcolor a:nth-child(8n-2) { background: #EDC951 }
+.dict .pcolor a:nth-child(8n-1) { background: #C8C8A9 }
+.dict .pcolor a:nth-child(8n) { background: #83AF9B }
+.dict .pcolor a:first-child { background: #036564 }
+.dict .pcolor a:last-child { background: #3299BB }

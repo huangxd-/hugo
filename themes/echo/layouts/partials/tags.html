@@ -1,14 +1,12 @@
 <div class="p-4 mt-2 lg:mt-4 rounded shadow bg-white">
     <h2 class="font-sans font-bold break-normal text-gray-700 px-2 pb-3 text-lg">标签</h2>
-    <div class="tagcloud">
-        {{ range .Site.Taxonomies.tags }}
-        <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
-        {{ end }}
+    <div class="tagcloud dict">
+        <p class="pcolor">
+            {{ range .Site.Taxonomies.tags }}
+            <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+            {{ end }}
+        </p>
     </div>
 
-    <ul class="tags__list">
-        {{- range .Params.tags }}
-        <li class="tags__item"><a class="tags__link btn" href="{{ "tags/" | relLangURL }}{{ . | urlize }}/" rel="tag">{{ . }}</a></li>
-        {{- end }}
-    </ul>
+
 </div>
