@@ -314,3 +314,62 @@ author: "ddb"                  # 作者
 ![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1618733898005.png)
 
 ![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1618734359682.png)
+
+## 九和弦
+
+### 大九和弦
+
+![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1618753421305.png)
+
+![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1618753465413.png)
+
+![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1618753517202.png)
+
+![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1618753550871.png)
+
+![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1618753571948.png)
+
+![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1618753646746.png)
+
+![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1618753711228.png)
+
+![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1618753871707.png)
+
+### 小九和弦
+
+![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1618754072478.png)
+
+![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1618754125098.png)
+
+![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1618754177723.png)
+
+![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1618754315894.png)
+
+![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1618754368614.png)
+
+![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1618754674988.png)
+
+### 属九和弦
+
+![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1618754801426.png)
+
+![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1618754837162.png)
+
+![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1618754880232.png)
+
+![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1618754909030.png)
+
+![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1618754935216.png)
+
+![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1618755143597.png)
+
+![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1618755178675.png)
+
+![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1618755219391.png)
+
+![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1618755379163.png)
+
+### 属七降九和弦
+
+![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1618755883800.png)
+
