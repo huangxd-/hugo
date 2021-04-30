@@ -126,22 +126,21 @@
 	width:100%;
 	margin:15px 0
 }
-.post-content th {
+.post-content table th {
 	background-color:#3C5A91;
 	color:#FFFFFF
 }
-.post-content,.post-content th,.post-content td
-{
+.post-content table th,.post-content table td {
 	font-size:0.95em;
 	text-align:center;
 	padding:4px;
 	border:1px solid #8fa0c0;
 	border-collapse:collapse
 }
-.post-content tr:nth-child(odd){
+.post-content table tr:nth-child(odd) {
 	background-color:#bec8da;
 }
-.post-content tr:nth-child(even){
+.post-content table tr:nth-child(even) {
 	background-color:#fdfdfd;
 }
 
