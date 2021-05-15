@@ -122,25 +122,25 @@
   font-size: 0.875rem;
 }
 
-.post-content:not(code) table {
+.post-content table:not(.hljs-ln) {
 	width:100%;
 	margin:15px 0
 }
-.post-content:not(code) table th {
+.post-content table:not(.hljs-ln) th {
 	background-color:#3C5A91;
 	color:#FFFFFF
 }
-.post-content:not(code) table th,.post-content table td {
+.post-content table:not(.hljs-ln) th,.post-content table:not(.hljs-ln) td {
 	font-size:0.95em;
 	text-align:center;
 	padding:4px;
 	border:1px solid #8fa0c0;
 	border-collapse:collapse
 }
-.post-content:not(code) table tr:nth-child(odd) {
+.post-content table:not(.hljs-ln) tr:nth-child(odd) {
 	background-color:#bec8da;
 }
-.post-content:not(code) table tr:nth-child(even) {
+.post-content table:not(.hljs-ln) tr:nth-child(even) {
 	background-color:#fdfdfd;
 }
 
