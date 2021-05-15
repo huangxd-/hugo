@@ -122,25 +122,25 @@
   font-size: 0.875rem;
 }
 
-.post-content table {
+.post-content:not(code) table {
 	width:100%;
 	margin:15px 0
 }
-.post-content table th {
+.post-content:not(code) table th {
 	background-color:#3C5A91;
 	color:#FFFFFF
 }
-.post-content table th,.post-content table td {
+.post-content:not(code) table th,.post-content table td {
 	font-size:0.95em;
 	text-align:center;
 	padding:4px;
 	border:1px solid #8fa0c0;
 	border-collapse:collapse
 }
-.post-content table tr:nth-child(odd) {
+.post-content:not(code) table tr:nth-child(odd) {
 	background-color:#bec8da;
 }
-.post-content table tr:nth-child(even) {
+.post-content:not(code) table tr:nth-child(even) {
 	background-color:#fdfdfd;
 }
 
