@@ -302,5 +302,6 @@ curl -XPOST http://localhost:9200/aliyun/_search -H 'Content-Type:application/js
 ```
 过滤查询：
 https://blog.csdn.net/lebron3v/article/details/84030836
+
 组合查询：
 https://www.elastic.co/guide/cn/elasticsearch/guide/current/combining-queries-together.html
