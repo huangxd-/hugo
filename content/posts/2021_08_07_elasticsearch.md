@@ -271,33 +271,42 @@ curl -XPOST http://localhost:9200/aliyun/fulltext/_mapping -H 'Content-Type:appl
 ``` shell
 curl -XPOST http://localhost:9200/aliyun/_search -H 'Content-Type:application/json' -d'
 {
-    "query": {
-        "filtered": {
-            "query": {
-                "match": {
-                    "title": "周杰伦在东京"
-                }
-            }, 
-            "filter": {
-                "bool": {
-                    "must": [
-                        {
-                            "term": {
-                                "type": "music"
-                            }
-                        }
-                    ], 
-                    "must_not": [
-                        {
-                            "term": {
-                                "disable": 1
-                            }
-                        }
-                    ]
-                }
-            }
+  "query": {
+    "filtered": {
+      "query": {
+        "match": {
+          "title": "周杰伦在东京"
         }
+      },
+      "filter": {
+        "bool": {
+          "must": [
+            {
+              "term": {
+                "type": "music"
+              }
+            }
+          ],
+          "must_not": [
+            {
+              "term": {
+                "disable": 1
+              }
+            }
+          ]
+        }
+      }
     }
+  },
+  "size": 10,
+  "from": 1,
+  "sort": [
+    {
+      "_timestamp": {
+        "order": "desc"
+      }
+    }
+  ]
 }
 ```
 过滤查询：
