@@ -255,14 +255,49 @@ output{
 ### elk创建索引及搜索
 
 ``` shell
-curl -XPOST http://localhost:9200/aliyun/fulltext/_mapping -H 'Content-Type:application/json' -d'
+curl -XPUT http://localhost:9200/_template/rtf -d '{
+  "template":   "*", 
+  "settings": { "number_of_shards": 1 }, 
+  "mappings": {
+    "_default_": {
+      "_all": { 
+        "enabled": true
+      },
+      "dynamic_templates": [
+        {
+          "strings": { 
+            "match_mapping_type": "string",
+            "mapping": {
+              "type": "text",
+              "analyzer":"ik_max_word",
+              "ignore_above": 256,
+              "fields": {
+                "keyword": {
+                  "type":  "keyword"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}'
+```
+
+``` shell
+curl -XPOST http://localhost:9200/aliyun/_default_/_mapping -H 'Content-Type:application/json' -d'
 {
         "properties": {
-            "content": {
+            "title": {
                 "type": "string",
-                "analyzer": "ik_max_word",
-                "search_analyzer": "ik_max_word"
-            }
+                "analyzer": "ik_max_word"
+            },
+            "upload" : {"type" : "string","analyzer": "ik_max_word"},
+            "url" : {"type" : "string","analyzer": "ik_max_word"},
+            "pan_type" : {"type" : "string","analyzer": "ik_max_word"},
+            "type" : {"type" : "string","analyzer": "ik_max_word"},
+            "@version" : {"type" : "string","analyzer": "ik_max_word"}
         }
     
 }'
@@ -307,7 +342,7 @@ curl -XPOST http://localhost:9200/aliyun/_search -H 'Content-Type:application/js
       }
     }
   ]
-}
+}'
 ```
 过滤查询：
 https://blog.csdn.net/lebron3v/article/details/84030836
