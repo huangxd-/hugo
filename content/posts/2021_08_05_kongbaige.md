@@ -9,29 +9,29 @@ author: "ddb"                  # 作者
 ---
 
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1628171956174.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1628171956174.png)
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1628171980262.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1628171980262.png)
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1628171998882.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1628171998882.png)
 
 其实很简单 其实很自然
 
 两个人的爱由两人分担
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1628172016330.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1628172016330.png)
 
 其实并不难 是你太悲观
 
 隔着一道墙不跟谁分享
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1628172034410.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1628172034410.png)
 
 不想让你为难
 
 你不再需要给我个答案
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1628172056789.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1628172056789.png)
 
 我想你是爱我的
 
@@ -41,7 +41,7 @@ author: "ddb"                  # 作者
 
 我们之间留了太多空白格
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1628172081543.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1628172081543.png)
 
 也许你不是我的
 

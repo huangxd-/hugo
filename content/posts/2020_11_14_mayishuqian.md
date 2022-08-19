@@ -9,7 +9,7 @@ author: "ddb"                  # 作者
 ---
 
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1605311302626.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1605311302626.png)
 
 ## 简介
 
@@ -21,12 +21,12 @@ author: "ddb"                  # 作者
 
 ### 添加书签和探索
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1605311470178.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1605311470178.png)
 
 当你第一次打开app的时候，是一片空白，所有数据都要自己添加，但是别着急，其实很简单，点击左上角设置按钮，找到联系作者，这里作者已经给我们做好了一部分，记住，两个都要 点我恢复备份 ，恢复完成后回到首页就可以看到恢复的书签，美剧韩剧港剧，电视直播都有，总有一个满足你。首页的书签数据是可以自己添加的，想要看哪个平台就手动添加哪个平台，腾，爱，优，芒 等等，百度搜索获取，自己想看哪个平台直接添加即可。
 
 ### 探索操作
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1605311656126.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1605311656126.png)
 
 在某视频网站上找到想看的视频，然后点击放大镜按钮，记住这种VIP网站都得点放大镜，然后点击带时间的线路直接播放就可以了，线路多所有基本都能成功播放，并且软件支持投屏，支持倍速播放，所有的功能还是比较全面，还是非常不错的，软件有启动广告和横幅广告，但影响不大。

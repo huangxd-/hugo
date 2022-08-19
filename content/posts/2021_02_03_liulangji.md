@@ -9,7 +9,7 @@ author: "ddb"                  # 作者
 ---
 
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1612354810183.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1612354810183.png)
 
 我就这样告别山下的家
 
@@ -17,7 +17,7 @@ author: "ddb"                  # 作者
 
 我以为我并不差 不会害怕
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1612354865461.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1612354865461.png)
 
 我就这样自己照顾自己长大
 
@@ -25,7 +25,7 @@ author: "ddb"                  # 作者
 
 我以为我并不差 能学会虚假
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1612354917507.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1612354917507.png)
 
 怎样才能够看穿面具里的谎话
 

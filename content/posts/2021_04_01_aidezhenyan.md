@@ -9,26 +9,26 @@ author: "ddb"                  # 作者
 ---
 
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1617287359233.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1617287359233.png)
 
 我将真心付给了你 将悲伤留给我自己
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1617287511629.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1617287511629.png)
 
 我将青春付给了你 将岁月留给我自己
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1617287556851.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1617287556851.png)
 
 我将生命付给了你 将孤独留给我自己
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1617287613169.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1617287613169.png)
 
 我将春天付给了你 将冬天留给我自己
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1617287664164.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1617287664164.png)
 
 爱是没有人能了解的东西 爱是永恒的旋律
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1617287692716.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1617287692716.png)
 
 爱是欢笑泪珠飘落的过程 爱曾经是我也是你

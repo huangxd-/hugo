@@ -95,6 +95,6 @@ Loon
 
 ## 效果图
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1605281531830.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1605281531830.png)
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1605281574101.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1605281574101.png)

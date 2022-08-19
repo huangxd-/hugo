@@ -11,18 +11,18 @@ author: "ddb"                  # 作者
 
 ### 三全音替代
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1628171507986.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1628171507986.png)
 
 ### Ⅱ-Ⅴ-Ⅰ的降二代五
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1628171608698.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1628171608698.png)
 
 ### 降二代五的变化
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1628171700950.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1628171700950.png)
 
 ### 应用
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1628171751423.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1628171751423.png)
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1628171792555.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1628171792555.png)

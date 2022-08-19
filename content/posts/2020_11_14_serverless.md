@@ -17,7 +17,7 @@ author: "ddb"                  # 作者
 
 ## 免费额度
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1605359668605.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1605359668605.png)
 
 ## 食用指南
 
@@ -25,29 +25,29 @@ author: "ddb"                  # 作者
 
 1. 登录[云函数控制台](https://console.cloud.tencent.com/scf)，点击左侧导航栏「函数服务」，在函数服务页面上方选择地域，单击「新建」，如下图所示：
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1605359790476.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1605359790476.png)
 
 2. 在「新建函数」页面填写函数名称，选择「运行环境」，控制台目前已支持的语言包括：Python 2.7 & 3.6、Node.js 6.10 & Node.js 8.9、Node.js 10.5、Java 8、Php 5 & Php 7。例如，我们选择运行环境：Python 3.6 ，选择空白模版函数创建，之后点击「下一步」：
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1605359935157.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1605359935157.png)
 
 3. 在index.py输入你的签到脚本
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1605360068687.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1605360068687.png)
 
 4. 点击高级设置，一般只要设置内存和超时时间
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1605360147161.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1605360147161.png)
 
 5. 创建完成后，在函数管理可以修改函数代码，点击测试可以直接运行测试
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1605360344604.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1605360344604.png)
 
 ### 创建触发器
 
 在已创建函数的详情页面，选择左侧「触发管理」，单击「创建触发器」，在弹出的「创建触发器」窗口中，将触发方式设置为「定时触发」，可以选择触发周期或者cron自定义
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1605360417799.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1605360417799.png)
 
 ## 签到脚本
 

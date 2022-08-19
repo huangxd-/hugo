@@ -11,26 +11,26 @@ author: "ddb"                  # 作者
 
 ### 级数系统
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1628170491578.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1628170491578.png)
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1628170512672.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1628170512672.png)
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1628170532939.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1628170532939.png)
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1628170571675.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1628170571675.png)
 
 ### 大调Ⅱ-Ⅴ-Ⅰ
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1628170591541.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1628170591541.png)
 
 ### 小调Ⅱ-Ⅴ-Ⅰ
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1628170631703.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1628170631703.png)
 
 ### Ⅱ-Ⅴ-Ⅰ应用
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1628170954856.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1628170954856.png)
 
 ### 大小调Ⅱ-Ⅴ-Ⅰ的互换
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1628171008684.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1628171008684.png)

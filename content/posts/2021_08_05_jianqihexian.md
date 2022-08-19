@@ -9,10 +9,10 @@ author: "ddb"                  # 作者
 ---
 
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1628171129779.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1628171129779.png)
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1628171154017.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1628171154017.png)
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1628171187115.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1628171187115.png)
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1628171220448.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1628171220448.png)

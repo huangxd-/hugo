@@ -33,14 +33,14 @@ author: "ddb"                  # 作者
 
 #### 一般从Ⅱ Ⅲ Ⅵ级小和弦中选择；所配和弦首先考虑参考音为和弦的三音，其次考虑参考音为和弦的七音或五音，尽量不要用根音作为参考音
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1621060585891.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1621060585891.png)
 
 ## 二、对基础和弦做色彩变化，选择伴奏型和节奏型，并设计Top Note旋律线
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1621060807026.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1621060807026.png)
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1621060691692.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1621060691692.png)
 
 ## 三、对和弦进行转为或插入转为和弦
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1621060949325.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1621060949325.png)

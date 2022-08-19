@@ -39,7 +39,7 @@ https://doc.natfrp.com/
 
 ### 创建隧道
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1605310430581.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1605310430581.png)
 
 ```
 TCP 隧道
@@ -61,7 +61,7 @@ XTCP 隧道
 
 ### 配置客户端frp.ini
 
-![enter description here](https://gitee.com/huangxd/imges/raw/master/小书匠/1605310478774.png)
+![enter description here](https://cdn.jsdelivr.net/gh/huangxd-/imges/小书匠/1605310478774.png)
 
 下载frp，复制配置内容粘贴到frp.ini，并启动
 
